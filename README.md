@@ -1,4 +1,4 @@
-## 👋 Hello Developer!
+## 🐸 Hello Developer! 
 
 <!--
 Here are some ideas to get you started:
@@ -71,7 +71,7 @@ CheonDongMin - April 30, 1996 <br><br>
     <div> 
         <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> 
         <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
-        <img src="https://img.shields.io/badge/EgovFrame-2CB9F1?style=for-the-badge&logo=&logoColor=white"> 
+        <img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"> 
         <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> 
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </div><br>
