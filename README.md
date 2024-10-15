@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 CheonDongMin - April 30, 1996 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%99%EB%AF%BC-%EC%B2%9C-9967352a2/)
-
+[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?style=for-the-badge&logo=tistory&logoColor=white)](https://frogcodepond.tistory.com/)
 
 ## 🔨 SKILL
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
