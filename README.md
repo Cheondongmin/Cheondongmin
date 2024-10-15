@@ -30,7 +30,7 @@ Server Backend Developer
         <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">    
         <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">    
         <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">  
-        <img src="https://img.shields.io/badge/mybatis-D4F4FA?style=for-the-badge&logo=mybatis&logoColor=white">  
+        <img src="https://img.shields.io/badge/mybatis / ibatis-000000?style=for-the-badge&logo=mybatis / ibatis&logoColor=white">  
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
