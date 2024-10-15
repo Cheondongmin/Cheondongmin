@@ -57,6 +57,7 @@ CheonDongMin - April 30, 1996 <br><br>
         <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> 
         <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
         <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">        
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -77,4 +78,4 @@ CheonDongMin - April 30, 1996 <br><br>
 </div><br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheondongmin&show_icons=true&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheondongmin&layout=compact&theme=dracula)
