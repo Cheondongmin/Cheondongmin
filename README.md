@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 CheonDongMin - April 17, 1996 <br>
-Server Backend Developer
-
 
 ## 🔨 SKILL
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
