@@ -39,7 +39,6 @@ CheonDongMin - April 30, 1996 <br><br>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/mariddb-4479A1?style=for-the-badge&logo=mariadb&logoColor=white">
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white"> 
         <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
     </div>
     <!-- Server -->
@@ -55,7 +54,6 @@ CheonDongMin - April 30, 1996 <br><br>
     <div>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
         <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> 
-        <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
         <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">        
     </div>
