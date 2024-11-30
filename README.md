@@ -74,6 +74,9 @@ CheonDongMin - April 30, 1996 <br><br>
         <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> 
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </div><br>
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheondongmin&layout=compact&theme=dracula)
