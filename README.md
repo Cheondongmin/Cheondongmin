@@ -24,3 +24,11 @@ CheonDongMin - April 30, 1996 <br><br>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheondongmin&layout=compact&theme=dracula)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Cheondongmin&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Cheondongmin"
+  width="600"
+  height="300"
+/>
+</a>
