@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 CheonDongMin - April 30, 1996 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%99%EB%AF%BC-%EC%B2%9C-9967352a2/)
 [![Blog](https://img.shields.io/badge/MyBlog-%23FF5722.svg?style=for-the-badge&logo=tistory&logoColor=white)](https://frogcodepond.tistory.com/)
-
-
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheondongmin&layout=compact&theme=dracula)
