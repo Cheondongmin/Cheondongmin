@@ -40,8 +40,8 @@
 #### 🦾 System & Blockchain  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-00FFA3?style=flat-square&logo=solana&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-00FFA3?style=flat-square&logo=solana&logoColor=white)
 
 ---
 
