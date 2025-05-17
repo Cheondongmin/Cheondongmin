@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🐸 Dongmin Cheon
 
 ### Backend Developer | Java, Spring, Node.js, Blockchain  
