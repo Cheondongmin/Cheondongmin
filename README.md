@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 CheonDongMin - April 30, 1996 <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dongmin-cheon-9967352a2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dongmin-cheon-9967352a2/)
 [![Blog](https://img.shields.io/badge/MyBlog-%23FF5722.svg?style=for-the-badge&logo=tistory&logoColor=white)](https://frogcodepond.tistory.com/)
 </div>
 
