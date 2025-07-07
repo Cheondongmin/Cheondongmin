@@ -40,7 +40,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-00FFA3?style=flat-square&logo=solana&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
