@@ -52,14 +52,3 @@
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Spring REST Docs](https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
----
-
-
-<div align="center">
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Cheondongmin&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/Cheondongmin" width="600" height="300" />
-</a>
-
-</div>
